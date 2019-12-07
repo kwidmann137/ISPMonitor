@@ -1,0 +1,12 @@
+D:\SourceCode\ISPMonitor\ISPMonitor\bin\Debug\netcoreapp2.2\ISPMonitor.deps.json
+D:\SourceCode\ISPMonitor\ISPMonitor\bin\Debug\netcoreapp2.2\ISPMonitor.runtimeconfig.json
+D:\SourceCode\ISPMonitor\ISPMonitor\bin\Debug\netcoreapp2.2\ISPMonitor.runtimeconfig.dev.json
+D:\SourceCode\ISPMonitor\ISPMonitor\bin\Debug\netcoreapp2.2\ISPMonitor.dll
+D:\SourceCode\ISPMonitor\ISPMonitor\bin\Debug\netcoreapp2.2\ISPMonitor.pdb
+D:\SourceCode\ISPMonitor\ISPMonitor\obj\Debug\netcoreapp2.2\ISPMonitor.csprojAssemblyReference.cache
+D:\SourceCode\ISPMonitor\ISPMonitor\obj\Debug\netcoreapp2.2\ISPMonitor.csproj.CoreCompileInputs.cache
+D:\SourceCode\ISPMonitor\ISPMonitor\obj\Debug\netcoreapp2.2\ISPMonitor.AssemblyInfoInputs.cache
+D:\SourceCode\ISPMonitor\ISPMonitor\obj\Debug\netcoreapp2.2\ISPMonitor.AssemblyInfo.cs
+D:\SourceCode\ISPMonitor\ISPMonitor\obj\Debug\netcoreapp2.2\ISPMonitor.dll
+D:\SourceCode\ISPMonitor\ISPMonitor\obj\Debug\netcoreapp2.2\ISPMonitor.pdb
+D:\SourceCode\ISPMonitor\ISPMonitor\bin\Debug\netcoreapp2.2\speedtest.exe
